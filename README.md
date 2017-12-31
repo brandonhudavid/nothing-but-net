@@ -12,6 +12,7 @@ This repository includes 3 folders:
 Folders include programs for:
 * User Control phase
 * Autonomous phase
+* Gyroscope autonomous concept
 * 4-wheel tank drive
 * 4-wheel holonomic drive
 * 4-wheel mecanum drive
